@@ -1,0 +1,13 @@
+fileFormatVersion: 2
+guid: fc5b6d4cf55cac04a8871a98d0ea4c72
+MonoImporter:
+  externalObjects: {}
+  serializedVersion: 2
+  defaultReferences:
+  - _groundCheck: {instanceID: 0}
+  - _snailBpdyPrefab: {fileID: 6885536274773342064, guid: a21d16ef648433a49a51dbd1dd4ae79b, type: 3}
+  executionOrder: 0
+  icon: {instanceID: 0}
+  userData: 
+  assetBundleName: 
+  assetBundleVariant: 

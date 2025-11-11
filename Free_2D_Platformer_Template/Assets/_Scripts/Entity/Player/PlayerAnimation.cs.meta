@@ -1,0 +1,12 @@
+fileFormatVersion: 2
+guid: c64ef871bd2f4a645a8f173f413ad010
+MonoImporter:
+  externalObjects: {}
+  serializedVersion: 2
+  defaultReferences:
+  - <KnockbackClip>k__BackingField: {fileID: 7400000, guid: 4c16f2b693516244498b8a63052cbdb1, type: 2}
+  executionOrder: 0
+  icon: {instanceID: 0}
+  userData: 
+  assetBundleName: 
+  assetBundleVariant: 

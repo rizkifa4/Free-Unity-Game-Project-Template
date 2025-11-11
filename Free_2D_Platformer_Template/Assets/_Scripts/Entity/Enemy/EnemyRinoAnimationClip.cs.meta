@@ -1,0 +1,12 @@
+fileFormatVersion: 2
+guid: 17d73b285d7540d40863bf192e278e91
+MonoImporter:
+  externalObjects: {}
+  serializedVersion: 2
+  defaultReferences:
+  - <HitWallClip>k__BackingField: {fileID: 7400000, guid: c1f73aa4e27d0624bbd00046a1a307a2, type: 2}
+  executionOrder: 0
+  icon: {instanceID: 0}
+  userData: 
+  assetBundleName: 
+  assetBundleVariant: 

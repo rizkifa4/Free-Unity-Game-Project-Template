@@ -1,0 +1,12 @@
+fileFormatVersion: 2
+guid: 6d96a48ca2bb5cc4f986bd197d58e624
+MonoImporter:
+  externalObjects: {}
+  serializedVersion: 2
+  defaultReferences:
+  - _deathVFX: {fileID: 5916374694404518883, guid: f3243d6d2f0a92249ad9c52be7906259, type: 3}
+  executionOrder: 0
+  icon: {instanceID: 0}
+  userData: 
+  assetBundleName: 
+  assetBundleVariant: 
